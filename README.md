@@ -1,6 +1,6 @@
 # UNICIT ICI physical activity
 
-This repository contains the script of the article: Verheijden _et al._ **Physical activity and checkpoint inhibition: association with toxicity and survival** J. Natl. Cancer Inst. 2023. [Physical activity and checkpoint inhibition: association with toxicity and survival](https://doi.org/10.1093/jnci/djad245).
+This repository contains the script of the article: Verheijden _et al._ **Physical activity and checkpoint inhibition: association with toxicity and survival** J. Natl. Cancer Inst. 2023. [https://doi.org/10.1093/jnci/djad245](https://doi.org/10.1093/jnci/djad245).
 
 Two R-scripts where used:
 
