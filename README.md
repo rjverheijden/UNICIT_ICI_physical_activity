@@ -1,2 +1,9 @@
 # UNICIT ICI physical activity
-Scripts for paper on the association of physical activity at immune checkpoint inhibitor initiation with severe immune-related adverse events and overall survival.
+
+This repository contains the script of the article: Verheijden _et al._ **Physical activity and checkpoint inhibition: association with toxicity and survival** J. Natl. Cancer Inst. 2023. [Physical activity and checkpoint inhibition: association with toxicity and survival](https://doi.org/10.1093/jnci/djad245).
+
+Two R-scripts where used:
+
+1. The script for [primary analyses](https://rjverheijden.github.io/UNICIT_ICI_physical_activity/UNICIT_squash_PA_primary_analysis.html).
+2. The script for [sensitivity analyses](https://rjverheijden.github.io/UNICIT_ICI_physical_activity/UNICIT_squash_PA_sensitivity_analyses.html).
+
