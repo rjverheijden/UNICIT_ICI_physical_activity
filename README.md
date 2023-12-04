@@ -4,6 +4,6 @@ This repository contains the script of the article: Verheijden _et al._ **Physic
 
 Two R-scripts where used:
 
-1. The script for [primary analyses](https://rjverheijden.github.io/UNICIT_ICI_physical_activity/UNICIT_squash_PA_primary_analysis.html).
-2. The script for [sensitivity analyses](https://rjverheijden.github.io/UNICIT_ICI_physical_activity/UNICIT_squash_PA_sensitivity_analyses.html).
+1. The script for [primary analyses](https://rjverheijden.github.io/UNICIT_ICI_physical_activity/squash_PA_primary_analyses.html).
+2. The script for [sensitivity analyses](https://rjverheijden.github.io/UNICIT_ICI_physical_activity/squash_PA_sensitivity_analyses.html).
 
